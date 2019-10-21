@@ -16,8 +16,13 @@ h2{
     font-family: fantasy;
 }
 
-img{
-    margin-bottom: 25px;
+footer{
+    margin-bottom: 30px;
+}
+
+.img_with_margin{
+    margin-bottom: 50px;
+    width: 450px;
 }
 
 p{
